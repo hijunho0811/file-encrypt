@@ -13,12 +13,12 @@ python get-pip.py
 pip install virtualenv
 
 
-## 3)virtualenv 활성화
+## 3)virtualenv 설치
 virtualenv venv
 
 * venv 대신 임의의 가상환경 이름을 사용해도 무관합니다.
 
-
+## 4)virtualenv 활성화
 
 * Activate on Mac/Linux
 
@@ -32,7 +32,7 @@ source venv/bin/activate
 
 source venv/Scripts/activate
 
-## 3)pycryptodomex 설치
+## 5)pycryptodomex 설치
 
 * 가상환경 활성화 후 설치하세요.
 
