@@ -14,19 +14,21 @@ pip install virtualenv
 
 
 ## 3)virtualenv 활성화
-* venv 대신 임의의 가상환경 이름을 사용해도 무관합니다.
-
 virtualenv venv
 
-* Mac/Linux
+* venv 대신 임의의 가상환경 이름을 사용해도 무관합니다.
+
+
+
+* Activate on Mac/Linux
 
 source venv/bin/activate
 
-* Windows powershell
+* Activate on Windows powershell
 
 \venv\Scripts\activate
 
-* Windows git bash
+* Activate on Windows git bash
 
 source venv/Scripts/activate
 
